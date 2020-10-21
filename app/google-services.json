@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552107652776",
+    "firebase_url": "https://palangpintu.firebaseio.com",
+    "project_id": "palangpintu",
+    "storage_bucket": "palangpintu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552107652776:android:3cbfea6cead7cedb8ab49d",
+        "android_client_info": {
+          "package_name": "com.example.testp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552107652776-4lottbjvrro51cjbp1lketncv9dv48oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testp",
+            "certificate_hash": "3ea8d316719fd04d874100572101b654feb41be2"
+          }
+        },
+        {
+          "client_id": "552107652776-7rmvhtokl5bd2bn71o4l4r5gjnuoar8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtCJEtIrnhpnOZ51tGc84yTJa2XEDoGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552107652776-7rmvhtokl5bd2bn71o4l4r5gjnuoar8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
